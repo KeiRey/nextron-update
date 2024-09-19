@@ -2,8 +2,8 @@
   "private": true,
   "name": "my-keimalapp",
   "description": "My application description",
-  "version": "1.5.0",
-  "author": "Yoshihide Shiono <shiono.yoshihide@gmail.com>",
+  "version": "1.6.0",
+  "author": "Keimal Reyyan",
   "main": "app/background.js",
   "build": {
     "appId": "com.example.keimalapp",
