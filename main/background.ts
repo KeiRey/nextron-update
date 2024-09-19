@@ -35,7 +35,7 @@ function initAutoUpdater() {
   })
 
   autoUpdater.on('error', (err) => {
-    dialog.showErrorBox('Error:', err === null ? 'unknown' : (err.stack || err).toString())
+    dialog.showErrorBox('lalal:', err === null ? 'unknown' : (err.stack || err).toString())
   })
 }
 
